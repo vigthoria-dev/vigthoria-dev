@@ -2,11 +2,11 @@
 
 Thank you for your interest in the Vigthoria ecosystem! 
 
-Vigthoria is a completely closed-source project built for maximum security and seamless integration. Because of this, we **do not accept pull requests or code contributions via GitHub**.
+Vigthoria's core infrastructure is entirely secure and proprietary. Because of this, we **do not accept code contributions or pull requests here on GitHub**.
 
-### How to contribute snippets and tools:
-If you want to share your automated workflows, custom layouts, or snippets built with the Vigthoria Coder, you can do so directly within our community network:
+### Host your own work in our Studio instead!
+If you want to build on top of Vigthoria, share custom tools, or host your own independent repositories, our ecosystem is built just for that:
 
-👉 **Publish inside the [Vigthoria Community Studio](https://community.vigthoria.io)**
+👉 **Launch your own Repositories inside the [Vigthoria Community Studio](https://community.vigthoria.io)**
 
 Thank you for keeping the ecosystem secure and connected!
